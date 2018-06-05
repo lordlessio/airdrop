@@ -1,0 +1,40 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "airdrop contract ",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "scripts/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lordlessio/airdrop.git"
+  },
+  "keywords": [
+    "airdrop",
+    "truffle",
+    "lordless",
+    "erc20"
+  ],
+  "author": "netpi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lordlessio/airdrop/issues"
+  },
+  "homepage": "https://github.com/lordlessio/airdrop#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.9.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "ganache-cli": "^6.1.0",
+    "truffle": "^4.1.8",
+    "truffle-hdwallet-provider": "0.0.5",
+    "truffle-flattener": "^1.2.5"
+  }
+}
