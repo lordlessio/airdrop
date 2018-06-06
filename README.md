@@ -2,8 +2,10 @@
 [![Build Status](https://img.shields.io/travis/lordlessio/airdrop.svg)](https://travis-ci.org/lordlessio/airdrop)
 ![license](https://img.shields.io/github/license/lordlessio/airdrop.svg)
 
-### airdrop :candy:
-![](https://olxvlcccu.qnssl.com/blog/ekzct.jpg?imageslim)
+### Airdrop effect :candy:
+> Multiple airdrop consumes one time gas
+FYI : https://etherscan.io/tx/0x061e701609d23e6755253fdb55ed1a31d2b253610b9f478600a0c1ad8b1f178e
+<image width="500" src="https://olxvlcccu.qnssl.com/blog/ekzct.jpg?imageslim" />
  
 ### source code
 ```javascript
