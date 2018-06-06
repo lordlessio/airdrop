@@ -1,4 +1,4 @@
-# LDB-NFT 
+# ERC20 Token Airdrop
 [![Build Status](https://img.shields.io/travis/lordlessio/airdrop.svg)](https://travis-ci.org/lordlessio/airdrop)
 ![license](https://img.shields.io/github/license/lordlessio/airdrop.svg)
 
