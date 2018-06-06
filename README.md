@@ -3,7 +3,7 @@
 ![license](https://img.shields.io/github/license/lordlessio/airdrop.svg)
 
 ### airdrop :candy:
-![](https://olxvlcccu.qnssl.com/blog/ekkz4.jpg?imageView2/2/w/600)
+![](https://olxvlcccu.qnssl.com/blog/ekzct.jpg?imageslim)
  
 ### source code
 ```javascript
